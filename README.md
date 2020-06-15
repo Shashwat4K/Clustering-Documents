@@ -10,7 +10,7 @@ The dataset contains two important files, **docword** and **vocab**. Depending o
 - Finding *cosine similarity* and perform clustering using various algorithms.
 
 ## Work which can be done:
-- Clustering based on different distance measures like *Jaccard Index*, etc.
+- Clustering based on different criteria like *Jaccard Index*, etc.
 - Some additional clustering algorithms.
 
 **Please suggest any improvements, and kindly 'star' the repository if you like it! Thank you!**
